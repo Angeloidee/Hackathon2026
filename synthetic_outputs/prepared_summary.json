@@ -1,0 +1,15 @@
+{
+  "rows": 30000,
+  "columns": 29,
+  "periodicity_counts": {
+    "TRIMESTRAL": 28905,
+    "MENSUAL": 1045,
+    "DESCONOCIDA": 50
+  },
+  "quarter_counts": {
+    "1": 7395,
+    "2": 7482,
+    "3": 7587,
+    "4": 7536
+  }
+}

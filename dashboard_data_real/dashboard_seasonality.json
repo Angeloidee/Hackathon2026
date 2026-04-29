@@ -1,0 +1,98 @@
+[
+  {
+    "month": 1,
+    "consumo_m3_per_capita": 5.342367192809169,
+    "temp_media_c": 12.3,
+    "precip_mm": 5.8,
+    "pernoctaciones": 662060.0,
+    "season_index": 81.44439910915582
+  },
+  {
+    "month": 2,
+    "consumo_m3_per_capita": 5.289936512981812,
+    "temp_media_c": 12.966666666666665,
+    "precip_mm": 1.5999999999999999,
+    "pernoctaciones": 823335.0,
+    "season_index": 80.6450932847319
+  },
+  {
+    "month": 3,
+    "consumo_m3_per_capita": 5.898421587176195,
+    "temp_media_c": 15.433333333333334,
+    "precip_mm": 44.599999999999994,
+    "pernoctaciones": 1193467.6666666667,
+    "season_index": 89.92144952272251
+  },
+  {
+    "month": 4,
+    "consumo_m3_per_capita": 5.964657297389912,
+    "temp_media_c": 17.133333333333336,
+    "precip_mm": 29.0,
+    "pernoctaciones": 1490079.0,
+    "season_index": 90.93121306446957
+  },
+  {
+    "month": 5,
+    "consumo_m3_per_capita": 6.695967077517211,
+    "temp_media_c": 20.366666666666667,
+    "precip_mm": 41.266666666666666,
+    "pernoctaciones": 1606693.3333333333,
+    "season_index": 102.08003220316265
+  },
+  {
+    "month": 6,
+    "consumo_m3_per_capita": 7.223223339500354,
+    "temp_media_c": 24.7,
+    "precip_mm": 6.199999999999999,
+    "pernoctaciones": 1728561.3333333333,
+    "season_index": 110.11805502786791
+  },
+  {
+    "month": 7,
+    "consumo_m3_per_capita": 8.305193171672952,
+    "temp_media_c": 27.700000000000003,
+    "precip_mm": 0.19999999999999998,
+    "pernoctaciones": 2055824.0,
+    "season_index": 126.61268739872807
+  },
+  {
+    "month": 8,
+    "consumo_m3_per_capita": 8.21850164453992,
+    "temp_media_c": 27.966666666666665,
+    "precip_mm": 3.0666666666666673,
+    "pernoctaciones": 2294818.3333333335,
+    "season_index": 125.2910748849517
+  },
+  {
+    "month": 9,
+    "consumo_m3_per_capita": 6.8468217268829275,
+    "temp_media_c": 24.733333333333334,
+    "precip_mm": 27.866666666666664,
+    "pernoctaciones": 1740871.6666666667,
+    "season_index": 104.3798116505489
+  },
+  {
+    "month": 10,
+    "consumo_m3_per_capita": 6.757974727698464,
+    "temp_media_c": 21.633333333333336,
+    "precip_mm": 18.4,
+    "pernoctaciones": 1585765.6666666667,
+    "season_index": 103.02533896080752
+  },
+  {
+    "month": 11,
+    "consumo_m3_per_capita": 6.208196075009385,
+    "temp_media_c": 17.799999999999997,
+    "precip_mm": 12.533333333333333,
+    "pernoctaciones": 1154279.3333333333,
+    "season_index": 94.64396224234228
+  },
+  {
+    "month": 12,
+    "consumo_m3_per_capita": 5.963061337363928,
+    "temp_media_c": 13.766666666666667,
+    "precip_mm": 10.666666666666666,
+    "pernoctaciones": 972960.3333333334,
+    "season_index": 90.90688265051124
+  }
+]

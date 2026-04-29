@@ -1,0 +1,42 @@
+[
+  {
+    "level": "warn",
+    "title": "Barrio en observación",
+    "description": "PUERTO · consumo 3103 m³ · temperatura 13.2 °C"
+  },
+  {
+    "level": "danger",
+    "title": "Anomalía interanual detectada",
+    "description": "SANTA FAZ · YoY 1.60 · consumo 10.45 m³/hab"
+  },
+  {
+    "level": "warn",
+    "title": "Barrio en observación",
+    "description": "BACAROT · consumo 13238 m³ · temperatura 13.2 °C"
+  },
+  {
+    "level": "ok",
+    "title": "Zona estable",
+    "description": "EL PALMERAL -URBANOVA - TABARCA · comportamiento dentro de rango"
+  },
+  {
+    "level": "ok",
+    "title": "Zona estable",
+    "description": "POLÍGONO INDUSTRIAL LAS ATALAYAS · comportamiento dentro de rango"
+  },
+  {
+    "level": "ok",
+    "title": "Zona estable",
+    "description": "VIRGEN DEL CARMEN · comportamiento dentro de rango"
+  },
+  {
+    "level": "ok",
+    "title": "Zona estable",
+    "description": "POLÍGONO INDUSTRIAL PLA DE LA VALLONGA · comportamiento dentro de rango"
+  },
+  {
+    "level": "ok",
+    "title": "Zona estable",
+    "description": "COLONIA REQUENA · comportamiento dentro de rango"
+  }
+]

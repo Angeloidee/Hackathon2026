@@ -1,0 +1,110 @@
+[
+  {
+    "barrio": "CENTRO",
+    "lat": 38.3453,
+    "lon": -0.4831,
+    "pressure_bar": 3.897,
+    "flow_m3h": 21.721,
+    "infrastructure_age": 52,
+    "risk_score": 0.5673,
+    "risk_level": "medio",
+    "total_alerts": 0,
+    "breakdown_probability": 0.0712
+  },
+  {
+    "barrio": "CAROLINAS BAJAS",
+    "lat": 38.3568,
+    "lon": -0.487,
+    "pressure_bar": 3.146,
+    "flow_m3h": 17.966,
+    "infrastructure_age": 61,
+    "risk_score": 0.4547,
+    "risk_level": "medio",
+    "total_alerts": 0,
+    "breakdown_probability": 0.104
+  },
+  {
+    "barrio": "PLAYA SAN JUAN",
+    "lat": 38.3782,
+    "lon": -0.4066,
+    "pressure_bar": 4.056,
+    "flow_m3h": 23.334,
+    "infrastructure_age": 25,
+    "risk_score": 0.4494,
+    "risk_level": "medio",
+    "total_alerts": 0,
+    "breakdown_probability": 0.0504
+  },
+  {
+    "barrio": "BENALUA",
+    "lat": 38.3388,
+    "lon": -0.4905,
+    "pressure_bar": 3.753,
+    "flow_m3h": 17.359,
+    "infrastructure_age": 45,
+    "risk_score": 0.4074,
+    "risk_level": "medio",
+    "total_alerts": 0,
+    "breakdown_probability": 0.0887
+  },
+  {
+    "barrio": "CAROLINAS ALTAS",
+    "lat": 38.3604,
+    "lon": -0.4895,
+    "pressure_bar": 3.383,
+    "flow_m3h": 19.536,
+    "infrastructure_age": 38,
+    "risk_score": 0.3258,
+    "risk_level": "bajo",
+    "total_alerts": 0,
+    "breakdown_probability": 0.0631
+  },
+  {
+    "barrio": "ALTOZANO",
+    "lat": 38.359,
+    "lon": -0.5013,
+    "pressure_bar": 3.727,
+    "flow_m3h": 16.965,
+    "infrastructure_age": 33,
+    "risk_score": 0.2947,
+    "risk_level": "bajo",
+    "total_alerts": 1,
+    "breakdown_probability": 0.0563
+  },
+  {
+    "barrio": "SAN BLAS",
+    "lat": 38.347,
+    "lon": -0.502,
+    "pressure_bar": 3.598,
+    "flow_m3h": 18.258,
+    "infrastructure_age": 41,
+    "risk_score": 0.2909,
+    "risk_level": "bajo",
+    "total_alerts": 0,
+    "breakdown_probability": 0.0569
+  },
+  {
+    "barrio": "VISTAHERMOSA",
+    "lat": 38.3692,
+    "lon": -0.4598,
+    "pressure_bar": 4.738,
+    "flow_m3h": 14.211,
+    "infrastructure_age": 18,
+    "risk_score": 0.2807,
+    "risk_level": "bajo",
+    "total_alerts": 0,
+    "breakdown_probability": 0.0502
+  },
+  {
+    "barrio": "GARBINET",
+    "lat": 38.362,
+    "lon": -0.4785,
+    "pressure_bar": 4.298,
+    "flow_m3h": 14.266,
+    "infrastructure_age": 22,
+    "risk_score": 0.2516,
+    "risk_level": "bajo",
+    "total_alerts": 0,
+    "breakdown_probability": 0.0429
+  }
+]

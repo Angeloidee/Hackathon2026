@@ -1,0 +1,15 @@
+{
+  "source_files": [
+    "dataset_definitivo.csv",
+    "dataset_completo_v2_72meses.csv",
+    "stgcn_v2_predictions.csv",
+    "centroids.csv",
+    "adjacency_matrix.csv"
+  ],
+  "real_period": {
+    "from": "2022-01-31",
+    "to": "2024-12-31"
+  },
+  "n_barrios": 53,
+  "prediction_period": "2024-01 to 2024-12"
+}

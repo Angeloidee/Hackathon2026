@@ -1,0 +1,10 @@
+{
+  "date": "2024-12-31",
+  "critical_alerts": 1,
+  "warnings": 6,
+  "active_nodes": 53,
+  "total_consumption_m3": 1327516.96,
+  "avg_per_capita_m3": 6.118,
+  "tourism_pernoctaciones": 1021973.0,
+  "delta_consumption_pct": 2.58
+}

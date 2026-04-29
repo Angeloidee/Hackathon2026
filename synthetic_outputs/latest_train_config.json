@@ -1,0 +1,10 @@
+{
+  "epochs": 12,
+  "batch_size": 256,
+  "lr": 0.0015,
+  "beta": 0.02,
+  "hidden_dim": 64,
+  "latent_dim": 12,
+  "seed": 42,
+  "final_loss": 0.31702881015963474
+}

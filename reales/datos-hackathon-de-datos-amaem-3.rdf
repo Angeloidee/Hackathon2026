@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Dataset rdf:about="https://datosabiertos-back.aguasdealicante.es/dataset/2dd3b4b4-c1cb-4422-a1d6-8af20f621c73">
+    <dct:title xml:lang="es">Datos HACKATHON de DATOS AMAEM</dct:title>
+    <dct:description xml:lang="es">Set de datos para el HACKATHON de DATOS de AMAEM</dct:description>
+    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/ciencia-tecnologia"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0032279"/>
+    <dct:identifier>https://datosabiertos-back.aguasdealicante.es/dataset/2dd3b4b4-c1cb-4422-a1d6-8af20f621c73</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-16T15:16:51+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-03-04T08:13:16+00:00</dct:modified>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:nodeID="N9c5cec36085842d2b46493812886ff2c">
+        <rdf:value rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+        <rdfs:label xml:lang="es">Otro</rdfs:label>
+      </dct:Frequency>
+    </dct:accrualPeriodicity>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alicante"/>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N3aebb740fde64f8f90ef15af29c1506b">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T00:00:00+00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00+00:00</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:distribution>
+      <dcat:Distribution rdf:nodeID="Nae0bf5809f3b4695a5f1c824ef54839d">
+        <dcat:accessURL rdf:resource="https://datosabiertos-back.aguasdealicante.es/dataset/2dd3b4b4-c1cb-4422-a1d6-8af20f621c73/resource/df0da1a0-594c-41ae-b1c5-670b6b43c849/download/datos-hackathon-amaem.xlsx-set-de-datos-.csv"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BYNC_4_0"/>
+        <dct:title xml:lang="es">Datos HACKATHON AMAEM</dct:title>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">320208</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+  </dcat:Dataset>
+</rdf:RDF>

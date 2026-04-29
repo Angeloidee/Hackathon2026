@@ -1,0 +1,105 @@
+{
+  "target_numeric": [
+    "log_m3",
+    "days_reading",
+    "planned_gap_days",
+    "is_zero",
+    "invoice_day",
+    "reading_day",
+    "planned_day"
+  ],
+  "cond_numeric": [
+    "year",
+    "month",
+    "quarter",
+    "registered_m3",
+    "network_km",
+    "inspected_km",
+    "inspected_ratio",
+    "registered_to_network",
+    "registered_to_inspected",
+    "period_billed_m3",
+    "period_mean_m3",
+    "period_zero_share",
+    "period_records",
+    "period_monthly_share",
+    "month_billed_m3",
+    "month_mean_m3",
+    "month_zero_share",
+    "month_records",
+    "month_sin",
+    "month_cos"
+  ],
+  "cond_categorical": [
+    "periodicity"
+  ],
+  "target_means": {
+    "log_m3": 2.5682330429169222,
+    "days_reading": 88.6517,
+    "planned_gap_days": -0.11193333333333333,
+    "is_zero": 0.08523333333333333,
+    "invoice_day": 15.4931,
+    "reading_day": 13.944533333333334,
+    "planned_day": 13.809966666666666
+  },
+  "target_stds": {
+    "log_m3": 1.1658325108400922,
+    "days_reading": 16.82277188149062,
+    "planned_gap_days": 0.8136364435190283,
+    "is_zero": 0.2792286020847744,
+    "invoice_day": 5.389052395675091,
+    "reading_day": 5.4246096740279,
+    "planned_day": 5.435953212843076
+  },
+  "cond_means": {
+    "year": 2025.0,
+    "month": 6.438,
+    "quarter": 2.5088,
+    "registered_m3": 5818300.9541,
+    "network_km": 1128.82,
+    "inspected_km": 1275.9199999999994,
+    "inspected_ratio": 1.1303130702857853,
+    "registered_to_network": 5154.321286033203,
+    "registered_to_inspected": 4560.082884585239,
+    "period_billed_m3": 4255874.0001855,
+    "period_mean_m3": 22.17833590912888,
+    "period_zero_share": 0.08363927599968841,
+    "period_records": 191814.2653,
+    "period_monthly_share": 0.034865013287859466,
+    "month_billed_m3": 1434151.8157891333,
+    "month_mean_m3": 22.163957327523974,
+    "month_zero_share": 0.08380446308890271,
+    "month_records": 64886.92963333333,
+    "month_sin": -0.0034640157022020474,
+    "month_cos": -0.0039718995346907345
+  },
+  "cond_stds": {
+    "year": 1.0,
+    "month": 3.4476788326834304,
+    "quarter": 1.1159402134522183,
+    "registered_m3": 546284.1340849857,
+    "network_km": 2.519300323911011e-10,
+    "inspected_km": 9.742961992742494e-10,
+    "inspected_ratio": 6.175060462965121e-13,
+    "registered_to_network": 483.94264283502565,
+    "registered_to_inspected": 428.1492053459425,
+    "period_billed_m3": 328522.9828520315,
+    "period_mean_m3": 1.5789774193726194,
+    "period_zero_share": 0.012786596999838595,
+    "period_records": 1492.3235670309564,
+    "period_monthly_share": 0.0026226847043497718,
+    "month_billed_m3": 184283.13024190153,
+    "month_mean_m3": 2.0329938091347897,
+    "month_zero_share": 0.016839788358612932,
+    "month_records": 7687.600990127688,
+    "month_sin": 0.7064792994810434,
+    "month_cos": 0.7077140835210932
+  },
+  "cond_categories": {
+    "periodicity": [
+      "DESCONOCIDA",
+      "MENSUAL",
+      "TRIMESTRAL"
+    ]
+  }
+}

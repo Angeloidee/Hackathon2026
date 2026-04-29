@@ -1,0 +1,1385 @@
+{
+  "nodes": [
+    {
+      "barrio": "ALBUFERETA",
+      "lat": 38.368428,
+      "lon": -0.442868,
+      "degree": 3,
+      "risk_score": 0.0203
+    },
+    {
+      "barrio": "ALIPARK",
+      "lat": 38.344647,
+      "lon": -0.499612,
+      "degree": 6,
+      "risk_score": 0.0045
+    },
+    {
+      "barrio": "ALTOZANO-CONDE LUMIARES",
+      "lat": 38.362525,
+      "lon": -0.487963,
+      "degree": 5,
+      "risk_score": 0.0463
+    },
+    {
+      "barrio": "BACAROT",
+      "lat": 38.327682,
+      "lon": -0.561372,
+      "degree": 7,
+      "risk_score": 0.3721
+    },
+    {
+      "barrio": "BENALUA",
+      "lat": 38.340472,
+      "lon": -0.497935,
+      "degree": 4,
+      "risk_score": 0.034
+    },
+    {
+      "barrio": "CABO DE LAS HUERTAS",
+      "lat": 38.358401,
+      "lon": -0.42027,
+      "degree": 2,
+      "risk_score": 0.0161
+    },
+    {
+      "barrio": "CAMPOAMOR",
+      "lat": 38.356137,
+      "lon": -0.487942,
+      "degree": 8,
+      "risk_score": 0.0274
+    },
+    {
+      "barrio": "CAROLINAS ALTAS",
+      "lat": 38.359992,
+      "lon": -0.480747,
+      "degree": 6,
+      "risk_score": 0.0809
+    },
+    {
+      "barrio": "CAROLINAS BAJAS",
+      "lat": 38.354577,
+      "lon": -0.481704,
+      "degree": 4,
+      "risk_score": 0.0907
+    },
+    {
+      "barrio": "CASCO ANTIGUO - SANTA CRUZ",
+      "lat": 38.345949,
+      "lon": -0.4805,
+      "degree": 4,
+      "risk_score": 0.1043
+    },
+    {
+      "barrio": "CAÑADA DEL FENOLLAR",
+      "lat": 38.395601,
+      "lon": -0.567277,
+      "degree": 5,
+      "risk_score": 0.1508
+    },
+    {
+      "barrio": "CENTRO",
+      "lat": 38.345161,
+      "lon": -0.486394,
+      "degree": 5,
+      "risk_score": 0.0394
+    },
+    {
+      "barrio": "CIUDAD DE ASIS",
+      "lat": 38.355247,
+      "lon": -0.528541,
+      "degree": 8,
+      "risk_score": 0.0955
+    },
+    {
+      "barrio": "CIUDAD JARDÍN",
+      "lat": 38.375917,
+      "lon": -0.49584,
+      "degree": 4,
+      "risk_score": 0.0608
+    },
+    {
+      "barrio": "COLONIA REQUENA",
+      "lat": 38.375398,
+      "lon": -0.485921,
+      "degree": 3,
+      "risk_score": 0.1713
+    },
+    {
+      "barrio": "CUATROCIENTAS VIVIENDAS",
+      "lat": 38.369803,
+      "lon": -0.481241,
+      "degree": 5,
+      "risk_score": 0.0974
+    },
+    {
+      "barrio": "DIVINA PASTORA",
+      "lat": 38.375155,
+      "lon": -0.50986,
+      "degree": 4,
+      "risk_score": 0.0592
+    },
+    {
+      "barrio": "EL PALMERAL -URBANOVA - TABARCA",
+      "lat": 38.303817,
+      "lon": -0.524332,
+      "degree": 3,
+      "risk_score": 0.3187
+    },
+    {
+      "barrio": "ENSANCHE - DIPUTACIÓN",
+      "lat": 38.342737,
+      "lon": -0.491376,
+      "degree": 6,
+      "risk_score": 0.0293
+    },
+    {
+      "barrio": "FLORIDA ALTA",
+      "lat": 38.346815,
+      "lon": -0.509862,
+      "degree": 4,
+      "risk_score": 0.0397
+    },
+    {
+      "barrio": "FLORIDA BAJA",
+      "lat": 38.342505,
+      "lon": -0.513623,
+      "degree": 4,
+      "risk_score": 0.0083
+    },
+    {
+      "barrio": "FONTCALENT",
+      "lat": 38.371392,
+      "lon": -0.572957,
+      "degree": 6,
+      "risk_score": 0.0798
+    },
+    {
+      "barrio": "GARBINET",
+      "lat": 38.365168,
+      "lon": -0.473616,
+      "degree": 6,
+      "risk_score": 0.0438
+    },
+    {
+      "barrio": "JUAN XXIII",
+      "lat": 38.381556,
+      "lon": -0.467638,
+      "degree": 7,
+      "risk_score": 0.0796
+    },
+    {
+      "barrio": "LA ALCORAYA",
+      "lat": 38.379992,
+      "lon": -0.628042,
+      "degree": 3,
+      "risk_score": 0.1118
+    },
+    {
+      "barrio": "LO MORANT - SAN NICOLÁS DE BARI",
+      "lat": 38.368153,
+      "lon": -0.490187,
+      "degree": 5,
+      "risk_score": 0.038
+    },
+    {
+      "barrio": "LOS ÁNGELES",
+      "lat": 38.36282,
+      "lon": -0.495478,
+      "degree": 7,
+      "risk_score": 0.0326
+    },
+    {
+      "barrio": "MERCADO",
+      "lat": 38.34919,
+      "lon": -0.488416,
+      "degree": 5,
+      "risk_score": 0.0296
+    },
+    {
+      "barrio": "MONNEGRE",
+      "lat": 38.469699,
+      "lon": -0.47896,
+      "degree": 0,
+      "risk_score": 0.0741
+    },
+    {
+      "barrio": "MORALET",
+      "lat": 38.435723,
+      "lon": -0.578845,
+      "degree": 2,
+      "risk_score": 0.0587
+    },
+    {
+      "barrio": "PLAYA DE SAN JUAN",
+      "lat": 38.370261,
+      "lon": -0.414913,
+      "degree": 1,
+      "risk_score": 0.0222
+    },
+    {
+      "barrio": "PLÁ DEL BON REPÓS",
+      "lat": 38.356746,
+      "lon": -0.475502,
+      "degree": 6,
+      "risk_score": 0.0649
+    },
+    {
+      "barrio": "POLÍGONO BABEL",
+      "lat": 38.336516,
+      "lon": -0.51064,
+      "degree": 9,
+      "risk_score": 0.0166
+    },
+    {
+      "barrio": "POLÍGONO DE SAN BLAS",
+      "lat": 38.364209,
+      "lon": -0.517717,
+      "degree": 11,
+      "risk_score": 0.0265
+    },
+    {
+      "barrio": "POLÍGONO INDUSTRIAL LAS ATALAYAS",
+      "lat": 38.340057,
+      "lon": -0.565857,
+      "degree": 1,
+      "risk_score": 0.2025
+    },
+    {
+      "barrio": "POLÍGONO INDUSTRIAL PLA DE LA VALLONGA",
+      "lat": 38.350208,
+      "lon": -0.550947,
+      "degree": 2,
+      "risk_score": 0.1892
+    },
+    {
+      "barrio": "PUERTO",
+      "lat": 38.333528,
+      "lon": -0.494259,
+      "degree": 5,
+      "risk_score": 0.603
+    },
+    {
+      "barrio": "RABAL ROIG - VIRGEN DEL SOCORRO",
+      "lat": 38.349334,
+      "lon": -0.474588,
+      "degree": 4,
+      "risk_score": 0.0342
+    },
+    {
+      "barrio": "RABASA",
+      "lat": 38.367846,
+      "lon": -0.503661,
+      "degree": 5,
+      "risk_score": 0.0564
+    },
+    {
+      "barrio": "REBOLLEDO",
+      "lat": 38.352276,
+      "lon": -0.621514,
+      "degree": 3,
+      "risk_score": 0.0408
+    },
+    {
+      "barrio": "SAN AGUSTÍN",
+      "lat": 38.359668,
+      "lon": -0.497816,
+      "degree": 3,
+      "risk_score": 0.0299
+    },
+    {
+      "barrio": "SAN ANTÓN",
+      "lat": 38.350209,
+      "lon": -0.480062,
+      "degree": 7,
+      "risk_score": 0.0432
+    },
+    {
+      "barrio": "SAN BLAS - SANTO DOMINGO",
+      "lat": 38.350434,
+      "lon": -0.494425,
+      "degree": 6,
+      "risk_score": 0.0217
+    },
+    {
+      "barrio": "SAN FERNANDO - PRINCESA MERCEDES",
+      "lat": 38.34517,
+      "lon": -0.505955,
+      "degree": 6,
+      "risk_score": 0.0536
+    },
+    {
+      "barrio": "SAN GABRIEL",
+      "lat": 38.329587,
+      "lon": -0.5129,
+      "degree": 2,
+      "risk_score": 0.0228
+    },
+    {
+      "barrio": "SANTA FAZ",
+      "lat": 38.384752,
+      "lon": -0.446169,
+      "degree": 3,
+      "risk_score": 0.5792
+    },
+    {
+      "barrio": "SIDI IFNI - NOU ALACANT",
+      "lat": 38.365983,
+      "lon": -0.482209,
+      "degree": 6,
+      "risk_score": 0.0949
+    },
+    {
+      "barrio": "TÓMBOLA",
+      "lat": 38.366886,
+      "lon": -0.500061,
+      "degree": 5,
+      "risk_score": 0.0261
+    },
+    {
+      "barrio": "VERDEGÁS",
+      "lat": 38.41346,
+      "lon": -0.591808,
+      "degree": 2,
+      "risk_score": 0.0768
+    },
+    {
+      "barrio": "VILLAFRANQUEZA",
+      "lat": 38.393453,
+      "lon": -0.482623,
+      "degree": 4,
+      "risk_score": 0.1672
+    },
+    {
+      "barrio": "VIRGEN DEL CARMEN",
+      "lat": 38.37011,
+      "lon": -0.484768,
+      "degree": 4,
+      "risk_score": 0.1941
+    },
+    {
+      "barrio": "VIRGEN DEL REMEDIO",
+      "lat": 38.372223,
+      "lon": -0.491103,
+      "degree": 10,
+      "risk_score": 0.0787
+    },
+    {
+      "barrio": "VISTAHERMOSA",
+      "lat": 38.361468,
+      "lon": -0.463438,
+      "degree": 6,
+      "risk_score": 0.1234
+    }
+  ],
+  "edges": [
+    {
+      "source": "ALBUFERETA",
+      "target": "CABO DE LAS HUERTAS",
+      "source_lat": 38.368428,
+      "source_lon": -0.442868,
+      "target_lat": 38.358401,
+      "target_lon": -0.42027
+    },
+    {
+      "source": "ALBUFERETA",
+      "target": "SANTA FAZ",
+      "source_lat": 38.368428,
+      "source_lon": -0.442868,
+      "target_lat": 38.384752,
+      "target_lon": -0.446169
+    },
+    {
+      "source": "ALBUFERETA",
+      "target": "VISTAHERMOSA",
+      "source_lat": 38.368428,
+      "source_lon": -0.442868,
+      "target_lat": 38.361468,
+      "target_lon": -0.463438
+    },
+    {
+      "source": "ALIPARK",
+      "target": "BENALUA",
+      "source_lat": 38.344647,
+      "source_lon": -0.499612,
+      "target_lat": 38.340472,
+      "target_lon": -0.497935
+    },
+    {
+      "source": "ALIPARK",
+      "target": "ENSANCHE - DIPUTACIÓN",
+      "source_lat": 38.344647,
+      "source_lon": -0.499612,
+      "target_lat": 38.342737,
+      "target_lon": -0.491376
+    },
+    {
+      "source": "ALIPARK",
+      "target": "POLÍGONO BABEL",
+      "source_lat": 38.344647,
+      "source_lon": -0.499612,
+      "target_lat": 38.336516,
+      "target_lon": -0.51064
+    },
+    {
+      "source": "ALIPARK",
+      "target": "POLÍGONO DE SAN BLAS",
+      "source_lat": 38.344647,
+      "source_lon": -0.499612,
+      "target_lat": 38.364209,
+      "target_lon": -0.517717
+    },
+    {
+      "source": "ALIPARK",
+      "target": "SAN BLAS - SANTO DOMINGO",
+      "source_lat": 38.344647,
+      "source_lon": -0.499612,
+      "target_lat": 38.350434,
+      "target_lon": -0.494425
+    },
+    {
+      "source": "ALIPARK",
+      "target": "SAN FERNANDO - PRINCESA MERCEDES",
+      "source_lat": 38.344647,
+      "source_lon": -0.499612,
+      "target_lat": 38.34517,
+      "target_lon": -0.505955
+    },
+    {
+      "source": "ALTOZANO-CONDE LUMIARES",
+      "target": "CAMPOAMOR",
+      "source_lat": 38.362525,
+      "source_lon": -0.487963,
+      "target_lat": 38.356137,
+      "target_lon": -0.487942
+    },
+    {
+      "source": "ALTOZANO-CONDE LUMIARES",
+      "target": "CAROLINAS ALTAS",
+      "source_lat": 38.362525,
+      "source_lon": -0.487963,
+      "target_lat": 38.359992,
+      "target_lon": -0.480747
+    },
+    {
+      "source": "ALTOZANO-CONDE LUMIARES",
+      "target": "LO MORANT - SAN NICOLÁS DE BARI",
+      "source_lat": 38.362525,
+      "source_lon": -0.487963,
+      "target_lat": 38.368153,
+      "target_lon": -0.490187
+    },
+    {
+      "source": "ALTOZANO-CONDE LUMIARES",
+      "target": "LOS ÁNGELES",
+      "source_lat": 38.362525,
+      "source_lon": -0.487963,
+      "target_lat": 38.36282,
+      "target_lon": -0.495478
+    },
+    {
+      "source": "ALTOZANO-CONDE LUMIARES",
+      "target": "SIDI IFNI - NOU ALACANT",
+      "source_lat": 38.362525,
+      "source_lon": -0.487963,
+      "target_lat": 38.365983,
+      "target_lon": -0.482209
+    },
+    {
+      "source": "BACAROT",
+      "target": "CIUDAD DE ASIS",
+      "source_lat": 38.327682,
+      "source_lon": -0.561372,
+      "target_lat": 38.355247,
+      "target_lon": -0.528541
+    },
+    {
+      "source": "BACAROT",
+      "target": "EL PALMERAL -URBANOVA - TABARCA",
+      "source_lat": 38.327682,
+      "source_lon": -0.561372,
+      "target_lat": 38.303817,
+      "target_lon": -0.524332
+    },
+    {
+      "source": "BACAROT",
+      "target": "FONTCALENT",
+      "source_lat": 38.327682,
+      "source_lon": -0.561372,
+      "target_lat": 38.371392,
+      "target_lon": -0.572957
+    },
+    {
+      "source": "BACAROT",
+      "target": "POLÍGONO BABEL",
+      "source_lat": 38.327682,
+      "source_lon": -0.561372,
+      "target_lat": 38.336516,
+      "target_lon": -0.51064
+    },
+    {
+      "source": "BACAROT",
+      "target": "POLÍGONO INDUSTRIAL LAS ATALAYAS",
+      "source_lat": 38.327682,
+      "source_lon": -0.561372,
+      "target_lat": 38.340057,
+      "target_lon": -0.565857
+    },
+    {
+      "source": "BACAROT",
+      "target": "POLÍGONO INDUSTRIAL PLA DE LA VALLONGA",
+      "source_lat": 38.327682,
+      "source_lon": -0.561372,
+      "target_lat": 38.350208,
+      "target_lon": -0.550947
+    },
+    {
+      "source": "BACAROT",
+      "target": "REBOLLEDO",
+      "source_lat": 38.327682,
+      "source_lon": -0.561372,
+      "target_lat": 38.352276,
+      "target_lon": -0.621514
+    },
+    {
+      "source": "BENALUA",
+      "target": "ENSANCHE - DIPUTACIÓN",
+      "source_lat": 38.340472,
+      "source_lon": -0.497935,
+      "target_lat": 38.342737,
+      "target_lon": -0.491376
+    },
+    {
+      "source": "BENALUA",
+      "target": "POLÍGONO BABEL",
+      "source_lat": 38.340472,
+      "source_lon": -0.497935,
+      "target_lat": 38.336516,
+      "target_lon": -0.51064
+    },
+    {
+      "source": "BENALUA",
+      "target": "PUERTO",
+      "source_lat": 38.340472,
+      "source_lon": -0.497935,
+      "target_lat": 38.333528,
+      "target_lon": -0.494259
+    },
+    {
+      "source": "CABO DE LAS HUERTAS",
+      "target": "PLAYA DE SAN JUAN",
+      "source_lat": 38.358401,
+      "source_lon": -0.42027,
+      "target_lat": 38.370261,
+      "target_lon": -0.414913
+    },
+    {
+      "source": "CAMPOAMOR",
+      "target": "CAROLINAS ALTAS",
+      "source_lat": 38.356137,
+      "source_lon": -0.487942,
+      "target_lat": 38.359992,
+      "target_lon": -0.480747
+    },
+    {
+      "source": "CAMPOAMOR",
+      "target": "CAROLINAS BAJAS",
+      "source_lat": 38.356137,
+      "source_lon": -0.487942,
+      "target_lat": 38.354577,
+      "target_lon": -0.481704
+    },
+    {
+      "source": "CAMPOAMOR",
+      "target": "LOS ÁNGELES",
+      "source_lat": 38.356137,
+      "source_lon": -0.487942,
+      "target_lat": 38.36282,
+      "target_lon": -0.495478
+    },
+    {
+      "source": "CAMPOAMOR",
+      "target": "MERCADO",
+      "source_lat": 38.356137,
+      "source_lon": -0.487942,
+      "target_lat": 38.34919,
+      "target_lon": -0.488416
+    },
+    {
+      "source": "CAMPOAMOR",
+      "target": "POLÍGONO DE SAN BLAS",
+      "source_lat": 38.356137,
+      "source_lon": -0.487942,
+      "target_lat": 38.364209,
+      "target_lon": -0.517717
+    },
+    {
+      "source": "CAMPOAMOR",
+      "target": "SAN ANTÓN",
+      "source_lat": 38.356137,
+      "source_lon": -0.487942,
+      "target_lat": 38.350209,
+      "target_lon": -0.480062
+    },
+    {
+      "source": "CAMPOAMOR",
+      "target": "SAN BLAS - SANTO DOMINGO",
+      "source_lat": 38.356137,
+      "source_lon": -0.487942,
+      "target_lat": 38.350434,
+      "target_lon": -0.494425
+    },
+    {
+      "source": "CAROLINAS ALTAS",
+      "target": "CAROLINAS BAJAS",
+      "source_lat": 38.359992,
+      "source_lon": -0.480747,
+      "target_lat": 38.354577,
+      "target_lon": -0.481704
+    },
+    {
+      "source": "CAROLINAS ALTAS",
+      "target": "GARBINET",
+      "source_lat": 38.359992,
+      "source_lon": -0.480747,
+      "target_lat": 38.365168,
+      "target_lon": -0.473616
+    },
+    {
+      "source": "CAROLINAS ALTAS",
+      "target": "PLÁ DEL BON REPÓS",
+      "source_lat": 38.359992,
+      "source_lon": -0.480747,
+      "target_lat": 38.356746,
+      "target_lon": -0.475502
+    },
+    {
+      "source": "CAROLINAS ALTAS",
+      "target": "SIDI IFNI - NOU ALACANT",
+      "source_lat": 38.359992,
+      "source_lon": -0.480747,
+      "target_lat": 38.365983,
+      "target_lon": -0.482209
+    },
+    {
+      "source": "CAROLINAS BAJAS",
+      "target": "PLÁ DEL BON REPÓS",
+      "source_lat": 38.354577,
+      "source_lon": -0.481704,
+      "target_lat": 38.356746,
+      "target_lon": -0.475502
+    },
+    {
+      "source": "CAROLINAS BAJAS",
+      "target": "SAN ANTÓN",
+      "source_lat": 38.354577,
+      "source_lon": -0.481704,
+      "target_lat": 38.350209,
+      "target_lon": -0.480062
+    },
+    {
+      "source": "CASCO ANTIGUO - SANTA CRUZ",
+      "target": "CENTRO",
+      "source_lat": 38.345949,
+      "source_lon": -0.4805,
+      "target_lat": 38.345161,
+      "target_lon": -0.486394
+    },
+    {
+      "source": "CASCO ANTIGUO - SANTA CRUZ",
+      "target": "PUERTO",
+      "source_lat": 38.345949,
+      "source_lon": -0.4805,
+      "target_lat": 38.333528,
+      "target_lon": -0.494259
+    },
+    {
+      "source": "CASCO ANTIGUO - SANTA CRUZ",
+      "target": "RABAL ROIG - VIRGEN DEL SOCORRO",
+      "source_lat": 38.345949,
+      "source_lon": -0.4805,
+      "target_lat": 38.349334,
+      "target_lon": -0.474588
+    },
+    {
+      "source": "CASCO ANTIGUO - SANTA CRUZ",
+      "target": "SAN ANTÓN",
+      "source_lat": 38.345949,
+      "source_lon": -0.4805,
+      "target_lat": 38.350209,
+      "target_lon": -0.480062
+    },
+    {
+      "source": "CAÑADA DEL FENOLLAR",
+      "target": "CIUDAD DE ASIS",
+      "source_lat": 38.395601,
+      "source_lon": -0.567277,
+      "target_lat": 38.355247,
+      "target_lon": -0.528541
+    },
+    {
+      "source": "CAÑADA DEL FENOLLAR",
+      "target": "FONTCALENT",
+      "source_lat": 38.395601,
+      "source_lon": -0.567277,
+      "target_lat": 38.371392,
+      "target_lon": -0.572957
+    },
+    {
+      "source": "CAÑADA DEL FENOLLAR",
+      "target": "LA ALCORAYA",
+      "source_lat": 38.395601,
+      "source_lon": -0.567277,
+      "target_lat": 38.379992,
+      "target_lon": -0.628042
+    },
+    {
+      "source": "CAÑADA DEL FENOLLAR",
+      "target": "MORALET",
+      "source_lat": 38.395601,
+      "source_lon": -0.567277,
+      "target_lat": 38.435723,
+      "target_lon": -0.578845
+    },
+    {
+      "source": "CAÑADA DEL FENOLLAR",
+      "target": "VERDEGÁS",
+      "source_lat": 38.395601,
+      "source_lon": -0.567277,
+      "target_lat": 38.41346,
+      "target_lon": -0.591808
+    },
+    {
+      "source": "CENTRO",
+      "target": "ENSANCHE - DIPUTACIÓN",
+      "source_lat": 38.345161,
+      "source_lon": -0.486394,
+      "target_lat": 38.342737,
+      "target_lon": -0.491376
+    },
+    {
+      "source": "CENTRO",
+      "target": "MERCADO",
+      "source_lat": 38.345161,
+      "source_lon": -0.486394,
+      "target_lat": 38.34919,
+      "target_lon": -0.488416
+    },
+    {
+      "source": "CENTRO",
+      "target": "PUERTO",
+      "source_lat": 38.345161,
+      "source_lon": -0.486394,
+      "target_lat": 38.333528,
+      "target_lon": -0.494259
+    },
+    {
+      "source": "CENTRO",
+      "target": "SAN ANTÓN",
+      "source_lat": 38.345161,
+      "source_lon": -0.486394,
+      "target_lat": 38.350209,
+      "target_lon": -0.480062
+    },
+    {
+      "source": "CIUDAD DE ASIS",
+      "target": "DIVINA PASTORA",
+      "source_lat": 38.355247,
+      "source_lon": -0.528541,
+      "target_lat": 38.375155,
+      "target_lon": -0.50986
+    },
+    {
+      "source": "CIUDAD DE ASIS",
+      "target": "FLORIDA ALTA",
+      "source_lat": 38.355247,
+      "source_lon": -0.528541,
+      "target_lat": 38.346815,
+      "target_lon": -0.509862
+    },
+    {
+      "source": "CIUDAD DE ASIS",
+      "target": "FLORIDA BAJA",
+      "source_lat": 38.355247,
+      "source_lon": -0.528541,
+      "target_lat": 38.342505,
+      "target_lon": -0.513623
+    },
+    {
+      "source": "CIUDAD DE ASIS",
+      "target": "FONTCALENT",
+      "source_lat": 38.355247,
+      "source_lon": -0.528541,
+      "target_lat": 38.371392,
+      "target_lon": -0.572957
+    },
+    {
+      "source": "CIUDAD DE ASIS",
+      "target": "POLÍGONO BABEL",
+      "source_lat": 38.355247,
+      "source_lon": -0.528541,
+      "target_lat": 38.336516,
+      "target_lon": -0.51064
+    },
+    {
+      "source": "CIUDAD DE ASIS",
+      "target": "POLÍGONO DE SAN BLAS",
+      "source_lat": 38.355247,
+      "source_lon": -0.528541,
+      "target_lat": 38.364209,
+      "target_lon": -0.517717
+    },
+    {
+      "source": "CIUDAD JARDÍN",
+      "target": "DIVINA PASTORA",
+      "source_lat": 38.375917,
+      "source_lon": -0.49584,
+      "target_lat": 38.375155,
+      "target_lon": -0.50986
+    },
+    {
+      "source": "CIUDAD JARDÍN",
+      "target": "RABASA",
+      "source_lat": 38.375917,
+      "source_lon": -0.49584,
+      "target_lat": 38.367846,
+      "target_lon": -0.503661
+    },
+    {
+      "source": "CIUDAD JARDÍN",
+      "target": "VILLAFRANQUEZA",
+      "source_lat": 38.375917,
+      "source_lon": -0.49584,
+      "target_lat": 38.393453,
+      "target_lon": -0.482623
+    },
+    {
+      "source": "CIUDAD JARDÍN",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.375917,
+      "source_lon": -0.49584,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    },
+    {
+      "source": "COLONIA REQUENA",
+      "target": "JUAN XXIII",
+      "source_lat": 38.375398,
+      "source_lon": -0.485921,
+      "target_lat": 38.381556,
+      "target_lon": -0.467638
+    },
+    {
+      "source": "COLONIA REQUENA",
+      "target": "VILLAFRANQUEZA",
+      "source_lat": 38.375398,
+      "source_lon": -0.485921,
+      "target_lat": 38.393453,
+      "target_lon": -0.482623
+    },
+    {
+      "source": "COLONIA REQUENA",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.375398,
+      "source_lon": -0.485921,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    },
+    {
+      "source": "CUATROCIENTAS VIVIENDAS",
+      "target": "GARBINET",
+      "source_lat": 38.369803,
+      "source_lon": -0.481241,
+      "target_lat": 38.365168,
+      "target_lon": -0.473616
+    },
+    {
+      "source": "CUATROCIENTAS VIVIENDAS",
+      "target": "JUAN XXIII",
+      "source_lat": 38.369803,
+      "source_lon": -0.481241,
+      "target_lat": 38.381556,
+      "target_lon": -0.467638
+    },
+    {
+      "source": "CUATROCIENTAS VIVIENDAS",
+      "target": "SIDI IFNI - NOU ALACANT",
+      "source_lat": 38.369803,
+      "source_lon": -0.481241,
+      "target_lat": 38.365983,
+      "target_lon": -0.482209
+    },
+    {
+      "source": "CUATROCIENTAS VIVIENDAS",
+      "target": "VIRGEN DEL CARMEN",
+      "source_lat": 38.369803,
+      "source_lon": -0.481241,
+      "target_lat": 38.37011,
+      "target_lon": -0.484768
+    },
+    {
+      "source": "CUATROCIENTAS VIVIENDAS",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.369803,
+      "source_lon": -0.481241,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    },
+    {
+      "source": "DIVINA PASTORA",
+      "target": "POLÍGONO DE SAN BLAS",
+      "source_lat": 38.375155,
+      "source_lon": -0.50986,
+      "target_lat": 38.364209,
+      "target_lon": -0.517717
+    },
+    {
+      "source": "DIVINA PASTORA",
+      "target": "RABASA",
+      "source_lat": 38.375155,
+      "source_lon": -0.50986,
+      "target_lat": 38.367846,
+      "target_lon": -0.503661
+    },
+    {
+      "source": "EL PALMERAL -URBANOVA - TABARCA",
+      "target": "POLÍGONO BABEL",
+      "source_lat": 38.303817,
+      "source_lon": -0.524332,
+      "target_lat": 38.336516,
+      "target_lon": -0.51064
+    },
+    {
+      "source": "EL PALMERAL -URBANOVA - TABARCA",
+      "target": "SAN GABRIEL",
+      "source_lat": 38.303817,
+      "source_lon": -0.524332,
+      "target_lat": 38.329587,
+      "target_lon": -0.5129
+    },
+    {
+      "source": "ENSANCHE - DIPUTACIÓN",
+      "target": "MERCADO",
+      "source_lat": 38.342737,
+      "source_lon": -0.491376,
+      "target_lat": 38.34919,
+      "target_lon": -0.488416
+    },
+    {
+      "source": "ENSANCHE - DIPUTACIÓN",
+      "target": "PUERTO",
+      "source_lat": 38.342737,
+      "source_lon": -0.491376,
+      "target_lat": 38.333528,
+      "target_lon": -0.494259
+    },
+    {
+      "source": "ENSANCHE - DIPUTACIÓN",
+      "target": "SAN BLAS - SANTO DOMINGO",
+      "source_lat": 38.342737,
+      "source_lon": -0.491376,
+      "target_lat": 38.350434,
+      "target_lon": -0.494425
+    },
+    {
+      "source": "FLORIDA ALTA",
+      "target": "FLORIDA BAJA",
+      "source_lat": 38.346815,
+      "source_lon": -0.509862,
+      "target_lat": 38.342505,
+      "target_lon": -0.513623
+    },
+    {
+      "source": "FLORIDA ALTA",
+      "target": "POLÍGONO DE SAN BLAS",
+      "source_lat": 38.346815,
+      "source_lon": -0.509862,
+      "target_lat": 38.364209,
+      "target_lon": -0.517717
+    },
+    {
+      "source": "FLORIDA ALTA",
+      "target": "SAN FERNANDO - PRINCESA MERCEDES",
+      "source_lat": 38.346815,
+      "source_lon": -0.509862,
+      "target_lat": 38.34517,
+      "target_lon": -0.505955
+    },
+    {
+      "source": "FLORIDA BAJA",
+      "target": "POLÍGONO BABEL",
+      "source_lat": 38.342505,
+      "source_lon": -0.513623,
+      "target_lat": 38.336516,
+      "target_lon": -0.51064
+    },
+    {
+      "source": "FLORIDA BAJA",
+      "target": "SAN FERNANDO - PRINCESA MERCEDES",
+      "source_lat": 38.342505,
+      "source_lon": -0.513623,
+      "target_lat": 38.34517,
+      "target_lon": -0.505955
+    },
+    {
+      "source": "FONTCALENT",
+      "target": "LA ALCORAYA",
+      "source_lat": 38.371392,
+      "source_lon": -0.572957,
+      "target_lat": 38.379992,
+      "target_lon": -0.628042
+    },
+    {
+      "source": "FONTCALENT",
+      "target": "POLÍGONO INDUSTRIAL PLA DE LA VALLONGA",
+      "source_lat": 38.371392,
+      "source_lon": -0.572957,
+      "target_lat": 38.350208,
+      "target_lon": -0.550947
+    },
+    {
+      "source": "FONTCALENT",
+      "target": "REBOLLEDO",
+      "source_lat": 38.371392,
+      "source_lon": -0.572957,
+      "target_lat": 38.352276,
+      "target_lon": -0.621514
+    },
+    {
+      "source": "GARBINET",
+      "target": "JUAN XXIII",
+      "source_lat": 38.365168,
+      "source_lon": -0.473616,
+      "target_lat": 38.381556,
+      "target_lon": -0.467638
+    },
+    {
+      "source": "GARBINET",
+      "target": "PLÁ DEL BON REPÓS",
+      "source_lat": 38.365168,
+      "source_lon": -0.473616,
+      "target_lat": 38.356746,
+      "target_lon": -0.475502
+    },
+    {
+      "source": "GARBINET",
+      "target": "SIDI IFNI - NOU ALACANT",
+      "source_lat": 38.365168,
+      "source_lon": -0.473616,
+      "target_lat": 38.365983,
+      "target_lon": -0.482209
+    },
+    {
+      "source": "GARBINET",
+      "target": "VISTAHERMOSA",
+      "source_lat": 38.365168,
+      "source_lon": -0.473616,
+      "target_lat": 38.361468,
+      "target_lon": -0.463438
+    },
+    {
+      "source": "JUAN XXIII",
+      "target": "SANTA FAZ",
+      "source_lat": 38.381556,
+      "source_lon": -0.467638,
+      "target_lat": 38.384752,
+      "target_lon": -0.446169
+    },
+    {
+      "source": "JUAN XXIII",
+      "target": "VILLAFRANQUEZA",
+      "source_lat": 38.381556,
+      "source_lon": -0.467638,
+      "target_lat": 38.393453,
+      "target_lon": -0.482623
+    },
+    {
+      "source": "JUAN XXIII",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.381556,
+      "source_lon": -0.467638,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    },
+    {
+      "source": "JUAN XXIII",
+      "target": "VISTAHERMOSA",
+      "source_lat": 38.381556,
+      "source_lon": -0.467638,
+      "target_lat": 38.361468,
+      "target_lon": -0.463438
+    },
+    {
+      "source": "LA ALCORAYA",
+      "target": "REBOLLEDO",
+      "source_lat": 38.379992,
+      "source_lon": -0.628042,
+      "target_lat": 38.352276,
+      "target_lon": -0.621514
+    },
+    {
+      "source": "LO MORANT - SAN NICOLÁS DE BARI",
+      "target": "LOS ÁNGELES",
+      "source_lat": 38.368153,
+      "source_lon": -0.490187,
+      "target_lat": 38.36282,
+      "target_lon": -0.495478
+    },
+    {
+      "source": "LO MORANT - SAN NICOLÁS DE BARI",
+      "target": "SIDI IFNI - NOU ALACANT",
+      "source_lat": 38.368153,
+      "source_lon": -0.490187,
+      "target_lat": 38.365983,
+      "target_lon": -0.482209
+    },
+    {
+      "source": "LO MORANT - SAN NICOLÁS DE BARI",
+      "target": "VIRGEN DEL CARMEN",
+      "source_lat": 38.368153,
+      "source_lon": -0.490187,
+      "target_lat": 38.37011,
+      "target_lon": -0.484768
+    },
+    {
+      "source": "LO MORANT - SAN NICOLÁS DE BARI",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.368153,
+      "source_lon": -0.490187,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    },
+    {
+      "source": "LOS ÁNGELES",
+      "target": "POLÍGONO DE SAN BLAS",
+      "source_lat": 38.36282,
+      "source_lon": -0.495478,
+      "target_lat": 38.364209,
+      "target_lon": -0.517717
+    },
+    {
+      "source": "LOS ÁNGELES",
+      "target": "SAN AGUSTÍN",
+      "source_lat": 38.36282,
+      "source_lon": -0.495478,
+      "target_lat": 38.359668,
+      "target_lon": -0.497816
+    },
+    {
+      "source": "LOS ÁNGELES",
+      "target": "TÓMBOLA",
+      "source_lat": 38.36282,
+      "source_lon": -0.495478,
+      "target_lat": 38.366886,
+      "target_lon": -0.500061
+    },
+    {
+      "source": "LOS ÁNGELES",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.36282,
+      "source_lon": -0.495478,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    },
+    {
+      "source": "MERCADO",
+      "target": "SAN ANTÓN",
+      "source_lat": 38.34919,
+      "source_lon": -0.488416,
+      "target_lat": 38.350209,
+      "target_lon": -0.480062
+    },
+    {
+      "source": "MERCADO",
+      "target": "SAN BLAS - SANTO DOMINGO",
+      "source_lat": 38.34919,
+      "source_lon": -0.488416,
+      "target_lat": 38.350434,
+      "target_lon": -0.494425
+    },
+    {
+      "source": "MORALET",
+      "target": "VERDEGÁS",
+      "source_lat": 38.435723,
+      "source_lon": -0.578845,
+      "target_lat": 38.41346,
+      "target_lon": -0.591808
+    },
+    {
+      "source": "PLÁ DEL BON REPÓS",
+      "target": "RABAL ROIG - VIRGEN DEL SOCORRO",
+      "source_lat": 38.356746,
+      "source_lon": -0.475502,
+      "target_lat": 38.349334,
+      "target_lon": -0.474588
+    },
+    {
+      "source": "PLÁ DEL BON REPÓS",
+      "target": "SAN ANTÓN",
+      "source_lat": 38.356746,
+      "source_lon": -0.475502,
+      "target_lat": 38.350209,
+      "target_lon": -0.480062
+    },
+    {
+      "source": "PLÁ DEL BON REPÓS",
+      "target": "VISTAHERMOSA",
+      "source_lat": 38.356746,
+      "source_lon": -0.475502,
+      "target_lat": 38.361468,
+      "target_lon": -0.463438
+    },
+    {
+      "source": "POLÍGONO BABEL",
+      "target": "PUERTO",
+      "source_lat": 38.336516,
+      "source_lon": -0.51064,
+      "target_lat": 38.333528,
+      "target_lon": -0.494259
+    },
+    {
+      "source": "POLÍGONO BABEL",
+      "target": "SAN FERNANDO - PRINCESA MERCEDES",
+      "source_lat": 38.336516,
+      "source_lon": -0.51064,
+      "target_lat": 38.34517,
+      "target_lon": -0.505955
+    },
+    {
+      "source": "POLÍGONO BABEL",
+      "target": "SAN GABRIEL",
+      "source_lat": 38.336516,
+      "source_lon": -0.51064,
+      "target_lat": 38.329587,
+      "target_lon": -0.5129
+    },
+    {
+      "source": "POLÍGONO DE SAN BLAS",
+      "target": "RABASA",
+      "source_lat": 38.364209,
+      "source_lon": -0.517717,
+      "target_lat": 38.367846,
+      "target_lon": -0.503661
+    },
+    {
+      "source": "POLÍGONO DE SAN BLAS",
+      "target": "SAN AGUSTÍN",
+      "source_lat": 38.364209,
+      "source_lon": -0.517717,
+      "target_lat": 38.359668,
+      "target_lon": -0.497816
+    },
+    {
+      "source": "POLÍGONO DE SAN BLAS",
+      "target": "SAN BLAS - SANTO DOMINGO",
+      "source_lat": 38.364209,
+      "source_lon": -0.517717,
+      "target_lat": 38.350434,
+      "target_lon": -0.494425
+    },
+    {
+      "source": "POLÍGONO DE SAN BLAS",
+      "target": "SAN FERNANDO - PRINCESA MERCEDES",
+      "source_lat": 38.364209,
+      "source_lon": -0.517717,
+      "target_lat": 38.34517,
+      "target_lon": -0.505955
+    },
+    {
+      "source": "POLÍGONO DE SAN BLAS",
+      "target": "TÓMBOLA",
+      "source_lat": 38.364209,
+      "source_lon": -0.517717,
+      "target_lat": 38.366886,
+      "target_lon": -0.500061
+    },
+    {
+      "source": "RABAL ROIG - VIRGEN DEL SOCORRO",
+      "target": "SAN ANTÓN",
+      "source_lat": 38.349334,
+      "source_lon": -0.474588,
+      "target_lat": 38.350209,
+      "target_lon": -0.480062
+    },
+    {
+      "source": "RABAL ROIG - VIRGEN DEL SOCORRO",
+      "target": "VISTAHERMOSA",
+      "source_lat": 38.349334,
+      "source_lon": -0.474588,
+      "target_lat": 38.361468,
+      "target_lon": -0.463438
+    },
+    {
+      "source": "RABASA",
+      "target": "TÓMBOLA",
+      "source_lat": 38.367846,
+      "source_lon": -0.503661,
+      "target_lat": 38.366886,
+      "target_lon": -0.500061
+    },
+    {
+      "source": "RABASA",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.367846,
+      "source_lon": -0.503661,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    },
+    {
+      "source": "SAN AGUSTÍN",
+      "target": "TÓMBOLA",
+      "source_lat": 38.359668,
+      "source_lon": -0.497816,
+      "target_lat": 38.366886,
+      "target_lon": -0.500061
+    },
+    {
+      "source": "SAN BLAS - SANTO DOMINGO",
+      "target": "SAN FERNANDO - PRINCESA MERCEDES",
+      "source_lat": 38.350434,
+      "source_lon": -0.494425,
+      "target_lat": 38.34517,
+      "target_lon": -0.505955
+    },
+    {
+      "source": "SANTA FAZ",
+      "target": "VISTAHERMOSA",
+      "source_lat": 38.384752,
+      "source_lon": -0.446169,
+      "target_lat": 38.361468,
+      "target_lon": -0.463438
+    },
+    {
+      "source": "SIDI IFNI - NOU ALACANT",
+      "target": "VIRGEN DEL CARMEN",
+      "source_lat": 38.365983,
+      "source_lon": -0.482209,
+      "target_lat": 38.37011,
+      "target_lon": -0.484768
+    },
+    {
+      "source": "TÓMBOLA",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.366886,
+      "source_lon": -0.500061,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    },
+    {
+      "source": "VILLAFRANQUEZA",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.393453,
+      "source_lon": -0.482623,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    },
+    {
+      "source": "VIRGEN DEL CARMEN",
+      "target": "VIRGEN DEL REMEDIO",
+      "source_lat": 38.37011,
+      "source_lon": -0.484768,
+      "target_lat": 38.372223,
+      "target_lon": -0.491103
+    }
+  ]
+}

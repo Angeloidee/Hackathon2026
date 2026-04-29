@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <dcat:Dataset rdf:about="https://datosabiertos-back.aguasdealicante.es/dataset/1bb19f80-2503-405b-a018-fc82ea0aca4c">
+    <dct:title xml:lang="es">Pluviómeros</dct:title>
+    <dct:description xml:lang="es">Contiene la ubicación y denominación de los pluviómetros de Aguas de Alicante</dct:description>
+    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0032279"/>
+    <dct:identifier>https://datosabiertos-back.aguasdealicante.es/dataset/1bb19f80-2503-405b-a018-fc82ea0aca4c</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-03-04T11:50:51+00:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-03-09T09:09:17+00:00</dct:modified>
+    <dct:accrualPeriodicity>
+      <dct:Frequency rdf:nodeID="N64222bb5feea4320993efb916de92649">
+        <rdf:value rdf:resource="http://publications.europa.eu/resource/authority/frequency/AS_NEEDED"/>
+        <rdfs:label xml:lang="es">Cuando sea necesario</rdfs:label>
+      </dct:Frequency>
+    </dct:accrualPeriodicity>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alicante"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:nodeID="N9cb3cf1d4c834e1da15c46f46fed0663">
+        <dcat:accessURL rdf:resource="https://datosabiertos-back.aguasdealicante.es/dataset/1bb19f80-2503-405b-a018-fc82ea0aca4c/resource/d5cc91f2-6187-4aa1-946c-18528bf15d87/download/pluviomteros.json"/>
+        <dct:title xml:lang="es">Pluviómteros.json</dct:title>
+        <dct:description xml:lang="es">Contiene la ubicación y denominación de los pluviómetros de Aguas de Alicante</dct:description>
+        <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/json"/>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2802</dcat:byteSize>
+      </dcat:Distribution>
+    </dcat:distribution>
+  </dcat:Dataset>
+</rdf:RDF>
